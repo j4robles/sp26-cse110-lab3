@@ -1,2 +1,2 @@
-# Lab 2 - Starter
-https://j4robles.github.io/Lab2_Starter/
+# Lab 3
+https://j4robles.github.io/sp26-cse110-lab3/
